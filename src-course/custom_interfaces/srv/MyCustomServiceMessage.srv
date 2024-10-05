@@ -1,0 +1,7 @@
+string move   # Signal to define the movement
+              # "Turn right" to make the robot turn in the right direction.
+              # "Turn left" to make the robot turn in the left direction. 
+              # "Stop" to make the robot stop the movement.
+
+---
+bool success  # Did it achieve it?

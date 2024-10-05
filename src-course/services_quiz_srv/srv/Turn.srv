@@ -1,0 +1,5 @@
+string direction               # Direction to spin (right or left)
+float64 angular_velocity       # Angular Velocity (in rad/s)
+int32 time                     # Duration of the spin (in seconds)
+---
+bool success                   # Did it achieve it?

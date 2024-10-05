@@ -1,0 +1,6 @@
+int32 seconds
+---
+bool status
+float64 total_dist
+---
+float64 current_dist
